@@ -81,6 +81,10 @@ const Hero = () => {
               Download Resume
               </motion.a>*/}
               
+               {/*avduwseidbfiucbiabwsidbxicvuabsidbxc
+
+
+               w0esdhcu baiSDIbcbauedsbuxcbi*/}
               <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
